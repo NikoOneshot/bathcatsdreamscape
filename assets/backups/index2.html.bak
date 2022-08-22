@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en"
+<head>
+  <meta charset="utf-8">
+  <title>Bathcat's Dreamscape</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Bathcat's little home.">
+  <meta name="keywords" content="bathcat, cat, home, dreamscape, personal">
+  <link rel="icon" type="image/png" href="assets/img/favicon.png">
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=serif">
+  
+   <link rel="stylesheet" href="assets/css/app.css">
+   
+   body {
+  background-image: url("background.gif");
+  background-repeat: repeat;
+}
+
+</style>
+</body>
+</html>
